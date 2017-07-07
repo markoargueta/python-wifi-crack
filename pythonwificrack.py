@@ -7,9 +7,9 @@ print ('''
 
 print("Selecciona la opcion que deseas realizar")
 
-def inicio():
+try:
+	def inicio():
 
-	try:
 
 		while True:
 			print('''
@@ -77,8 +77,7 @@ def inicio():
 				opcion6 = input("\033[1;32mEscriba si para ir al menu principal: \033[1;m")
 				if opcion6 == "si":
 					inicio()
+	inicio()
 
-	except KeyboardInterrupt:
-		print("Adios")
-
-inicio()
+except KeyboardInterrupt:
+	print("Adios")
