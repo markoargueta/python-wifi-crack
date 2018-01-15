@@ -18,7 +18,7 @@ try:
 3) Seleccionar red a crackear.
 4) Capturar handshake.
 5) Utilizar diccionario.
-6) Relavantar servicios
+6) Levantar servicios
 *) Ctrl + c para salir.
 			''')
 			
