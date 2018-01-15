@@ -2,7 +2,7 @@ import os
 
 print ('''
 \033[1;32m************************Python Wifi Cracker************************\033[1;m
-\033[1;32m Author: Marco Argueta | Homepage: https://www.hackingelsalvador.com\033[1;m
+\033[1;32m Author: Marco Argueta\033[1;m
 		''')
 
 print("Selecciona la opcion que deseas realizar")
