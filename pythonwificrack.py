@@ -19,7 +19,7 @@ try:
 4) Capturar handshake.
 5) Utilizar diccionario.
 6) Levantar servicios.
-*) Ctrl + c para salir.
+*) Ctrl + C para salir.
 			''')
 			
 			opcion = input("\033[1;32mSeleccione opcion: \033[1;m")
