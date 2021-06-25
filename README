@@ -1,3 +1,6 @@
 Python WiFi Crack es una herramienta que facilita el uso de aircrack-ng, no necesitas aprenderte los comandos de aircrack-ng para poder crackear redes WiFi.
 
 Funciona con WPA y WPA2
+
+Nota:
+Es script ha sido probado en Kali Linux y Debian 8 y 9, debe funcionar en otras distribuciones siempre y cuando tengas instalado aircrack-ng. No funciona en Windows.
